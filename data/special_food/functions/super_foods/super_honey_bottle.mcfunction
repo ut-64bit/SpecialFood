@@ -1,3 +1,9 @@
+#> special_food:super_foods/super_honey_bottle
+#
+# super_honey_bottle
+#
+# @private
+
 effect clear @s slowness
 effect clear @s mining_fatigue
 effect clear @s nausea
