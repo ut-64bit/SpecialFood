@@ -1,7 +1,7 @@
 # SpecialFood
 - MC1.18.x
 ## DL
-少々お待ち
+ダウンロードは[ここ](https://github.com/kagura-84/SpecialFood/releases)から
 __ __
 ## 概要
 - このデータパックはマインクラフトの食料に特殊な効果を追加します
