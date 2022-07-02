@@ -1,5 +1,6 @@
 # SpecialFood
 - MC1.18.x
+- MC1.19
 ## DL
 ダウンロードは[ここ](https://github.com/kagura-84/SpecialFood/releases)から
 
