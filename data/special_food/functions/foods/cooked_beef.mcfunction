@@ -4,5 +4,5 @@
 #
 # @private
 
-    effect give @s strength 300 0
+    effect give @s strength 60 0
     advancement revoke @s only special_food:steak
