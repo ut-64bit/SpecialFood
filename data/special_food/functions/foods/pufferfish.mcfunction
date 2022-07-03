@@ -4,5 +4,5 @@
 #
 # @private
 
-    effect give @s water_breathing 180 0
+    effect give @s water_breathing 120 0
     advancement revoke @s only special_food:pufferfish
